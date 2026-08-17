@@ -1,5 +1,7 @@
 
 # notes
+catatan pikiran selama pengerjaan submission [kelas dicoding membangun proyek deep learning tingkat mahir](https://www.dicoding.com/academies/818-membangun-proyek-deep-learning-tingkat-mahir).
+
 *Last update: 2026/03/16*
 
 
