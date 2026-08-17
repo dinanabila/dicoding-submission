@@ -61,11 +61,6 @@ persistent=True biar rekaman si gradienttape nya ga mati. kalau di-assign False,
 ### custom training loop
 
 
-
-
-## submission dltm
-sebuah catatan pikiran untuk pengerjaan submission dicoding kelas membangun proyek deep learning tingkat mahir
-
 **alur kerja:** 
 1. eda dataset
 	- heatmap
