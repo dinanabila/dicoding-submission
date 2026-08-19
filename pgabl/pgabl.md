@@ -1,7 +1,7 @@
 # notes
 Catatan pikiran selama pengerjaan submission [kelas dicoding pengembangan generative ai berbasis llm](https://www.dicoding.com/academies/857-pengembangan-generative-ai-berbasis-llm).
 
-## SFT
+## MODEL
 
 ### Concept
 
@@ -36,9 +36,15 @@ Lihat dari model card di platform kek huggingface. Bisa juga lihat dari training
 
 Jadinya untuk model yang kupakai untuk submission ini: https://huggingface.co/unsloth/Qwen3-4B-Base
 
-
 ### Plan
 
 Untuk model, pilih Qwen3-4B karena udah support multilingual. 4B udah termasuk 'menengah', yang mana kapasitas modelnya ga terlalu simpel, tapi juga ga terlalu kompleks berat. Pas untuk keterbatasan komputasi yang tapinya tetap ingin memperjuangkan performa model ._.
 
 Model yang sama ini kulatih dua kali dengan dua konfigurasi berbeda. Yang satu konfigurasinya serba murah serba ringan. Yang satunya lagi yang bagus, sebisa dan semampunya batasan resource komputasi yang ada. 
+
+
+## DATASET
+
+### Concept
+
+#### Gimana cara melakukan format dataset sesuai model yang digunakan? Ada ketentuan tertentu yang harus dipenuhi ga? Taunya dari mana dan gimana?
