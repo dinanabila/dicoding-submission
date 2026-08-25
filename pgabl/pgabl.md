@@ -48,3 +48,9 @@ Model yang sama ini kulatih dua kali dengan dua konfigurasi berbeda. Yang satu k
 ### Concept
 
 #### Gimana cara melakukan format dataset sesuai model yang digunakan? Ada ketentuan tertentu yang harus dipenuhi ga? Taunya dari mana dan gimana?
+
+Cek dataset nya. 
+
+Sumber bacaan: 
+- https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/datasets-guide
+- https://unsloth.ai/docs/basics/chat-templates
