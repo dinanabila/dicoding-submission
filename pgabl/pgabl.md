@@ -54,3 +54,16 @@ Cek dataset nya.
 Sumber bacaan: 
 - https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/datasets-guide
 - https://unsloth.ai/docs/basics/chat-templates
+
+
+## CONFIG
+
+### 1st attempt
+
+limit colab gratisan exceeded alias gatot:
+- r = 16
+- alpha = 16
+- attention & FFN
+- batch_size = 4
+- gradient_accumulation_steps = 4
+- qwen3-4b-base
