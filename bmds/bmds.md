@@ -34,10 +34,12 @@ sda
 #### tugas 3.3: membuat visualisasi distribusi binomial
 biar kebayang visualisasi distribusi binomial.
 
+<br>
+
 
 # soal 2: sistem rekomendasi - A/B testing
 
-<img src="img/soal_2.jpg" alt="soal 2" width="90%">
+<img src="img/soal_2.jpg" alt="soal 2" width="90%"> <br> <br>
 
 
 # soal 3: software development - A/B testing
