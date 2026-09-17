@@ -1,7 +1,7 @@
 
 catatan pikiran selama pengerjaan submission [kelas dicoding belajar matematika untuk data science](https://www.dicoding.com/academies/831-belajar-matematika-untuk-data-science).
 
-## soal 1: distribusi dan algoritma naive bayes
+# soal 1: distribusi dan algoritma naive bayes
 ## segmen 1: menghasilkan data acak
 
 ### tugas 1: membuat data distribusi uniform
@@ -33,3 +33,13 @@ sda
 
 #### tugas 3.3: membuat visualisasi distribusi binomial
 biar kebayang visualisasi distribusi binomial.
+
+
+# soal 2: sistem rekomendasi - A/B testing
+
+<img src="img/soal_2.jpg" alt="soal 2" width="90%">
+
+
+# soal 3: software development - A/B testing
+
+<img src="img/soal_3.jpg" alt="soal 3" width="90%">
