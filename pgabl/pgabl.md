@@ -67,3 +67,7 @@ limit colab gratisan exceeded alias gatot:
 - batch_size = 4
 - gradient_accumulation_steps = 4
 - qwen3-4b-base
+
+ga. belum gatot. belum. 
+
+mengenai ini masih bisa ditangani pakai checkpoint. checkpoint nya save ke mount google drive. jadi tar tiap kena limit, hasilnya udah kesimpan di google drive sampai checkpoint terakhir. baru kalau udah ga limit lagi, training nya bisa dari ambil checkpoint terakhir yang udah disimpan sebelumnya.
