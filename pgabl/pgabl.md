@@ -1,6 +1,19 @@
 # notes
 Catatan pikiran selama pengerjaan submission [kelas dicoding pengembangan generative ai berbasis llm](https://www.dicoding.com/academies/857-pengembangan-generative-ai-berbasis-llm).
 
+
+## ALUR
+
+> **SFT -> GRPO -> RAG**
+
+
+**Rincian:**
+- Output submission ini adalah model chatbot berbasis RAG yang bisa membantu user memperoleh informasi berdasarkan dokumen internal perusahaan. Harapannya chatbot nya nanti dalam bahasa Indonesia, yang style nya bisa menghandle percakapan casual yang ga terlalu robot-robot komputer amat. Atau luwes lah, bisa dibilang.
+- Model yang digunakan untuk submission ini haruslah hasil fine tuning base model SLM (versi mini nya dari LLM) resmi yang telah ada di dunyah. Kenapa harus hasil fine tuning? Tujuannya supaya model SLM tersebut bisa pakai bahasa casual Indonesia setiap ngasih jawaban ke user. Kalau langsung pakai base model SLM bawaan bisa aja, tapi belum luwes belum terpoles.
+- Dan biar makin terpoles lagi, base model SLM hasil fine tuning tadi dilatih lagi menggunakan GRPO. Biar apa? Lagi, biar makin luwes.
+- Apa bedanya fine tuning dengan GRPO? Kalau fine tuning fokusnya di ngajarin bahasa ke model. Kalau GRPO fokusnya ke ngajarin attitude ke model. Supaya terhindari dari insiden model berkata kasar, misalnya.
+- Setelah melalui proses fine tuning dan GRPO, barulah modelnya bisa disuntikkan dokumen internal perusahaan pakai RAG. Dan jadi deh :-)
+
 ## MODEL
 
 ### Concept
